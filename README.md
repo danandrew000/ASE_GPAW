@@ -1,4 +1,4 @@
 # Analysis
-* There are my mini-mini-mini-research on population in Russia
+* basis of using ASE and GPAW libs
 
 ### How to install it (coming soon)
